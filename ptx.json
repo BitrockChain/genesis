@@ -11,13 +11,15 @@
     "constantinopleFixBlock": 0,
     "muirglacierblock": 0,
     "berlinBlock": 0,
-    "pragueTime": 1753639680,
+    "pragueTime": 1753640280,
     "ibft2": {
       "blockperiodseconds": 1,
       "epochlength": 30000,
       "requesttimeoutseconds": 10,
       "blockreward": "100000000000000"
-    }
+    },
+    "withdrawalRequestContractAddress": "0xAc72685Fe13BfbAC02929D978fcb39F9412B295b",
+    "consolidationRequestContractAddress": "0xd823107E5C365C50C798EA7e17d2B4F75710D6a0"
   },
   "nonce": "0x0",
   "timestamp": "0x0",
