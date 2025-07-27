@@ -11,7 +11,7 @@
     "constantinopleFixBlock": 0,
     "muirglacierblock": 0,
     "berlinBlock": 0,
-    "pragueBlock": 54060300,
+    "pragueTime": 1753639680,
     "ibft2": {
       "blockperiodseconds": 1,
       "epochlength": 30000,
