@@ -18,6 +18,7 @@
       "requesttimeoutseconds": 10,
       "blockreward": "100000000000000"
     },
+    "depositContractAddress": "0x4242424242424242424242424242424242424242",
     "withdrawalRequestContractAddress": "0xAc72685Fe13BfbAC02929D978fcb39F9412B295b",
     "consolidationRequestContractAddress": "0xd823107E5C365C50C798EA7e17d2B4F75710D6a0"
   },
